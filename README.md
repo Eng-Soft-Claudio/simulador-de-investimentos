@@ -46,7 +46,7 @@ simulador-de-investimentos/
 │   ├── test_investimento.py
 ├── run_tests.sh                                 # Script para rodar os testes
 ├── requirements.txt                             # Dependências do projeto
-└── [README.md](http://_vscodecontentref_/1)     # Documentação do projeto
+└── README.md                                    # Documentação do projeto
 ```
 ---
 
