@@ -72,7 +72,7 @@ python main.py
 Para rodar os testes automatizados, utilize o script run_tests.sh:
 ./run_tests.sh
 
-Ou execute diretamente com o Python:
+Ou execute diretamente com o Python:  
 export PYTHONPATH=$(pwd)/simulador-de-investimentos
 python -m unittest discover simulador-de-investimentos/tests
 
