@@ -1,4 +1,4 @@
-# Simulador de Investimentos
+# 💲 Simulador de Investimentos
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/PyQt6-%3E=6.0-green.svg)](https://pypi.org/project/PyQt6/)
