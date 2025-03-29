@@ -78,15 +78,6 @@ python -m unittest discover simulador-de-investimentos/tests
 
 ---
 
-## 📖 Exemplo de Uso
-1 . Insira o valor inicial do investimento (ex.: R$ 1.000,00).
-2 . Insira a taxa de juros anual (ex.: 5%).
-3 . Insira o número de anos (ex.: 10 anos).
-4 . Clique no botão Calcular.
-5 . O valor futuro do investimento será exibido em uma janela de diálogo.
-
----
-
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** ou enviar **pull requests**. 💡
 
