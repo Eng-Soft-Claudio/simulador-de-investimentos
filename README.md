@@ -52,7 +52,7 @@ simulador-de-investimentos/
 
 ## 🛠️ Instalação e Execução
 Pré-requisitos
-Python 3.12 ou superior
+Python 3.12 ou superior  
 Gerenciador de pacotes pip
 
 Passos
