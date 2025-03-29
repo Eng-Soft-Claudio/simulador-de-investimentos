@@ -48,7 +48,7 @@ simulador-de-investimentos/
 ├── requirements.txt                             # Dependências do projeto
 └── [README.md](http://_vscodecontentref_/1)     # Documentação do projeto
 
-🛠️ Instalação e Execução
+## 🛠️ Instalação e Execução
 Pré-requisitos
 Python 3.12 ou superior
 Gerenciador de pacotes pip
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 python main.py
 
 
-🧪 Testes
+## 🧪 Testes
 Para rodar os testes automatizados, utilize o script run_tests.sh:
 ./run_tests.sh
 
@@ -74,7 +74,7 @@ Ou execute diretamente com o Python:
 export PYTHONPATH=$(pwd)/simulador-de-investimentos
 python -m unittest discover simulador-de-investimentos/tests
 
-📖 Exemplo de Uso
+## 📖 Exemplo de Uso
 1 . Insira o valor inicial do investimento (ex.: R$ 1.000,00).
 2 . Insira a taxa de juros anual (ex.: 5%).
 3 . Insira o número de anos (ex.: 10 anos).
@@ -82,8 +82,8 @@ python -m unittest discover simulador-de-investimentos/tests
 5 . O valor futuro do investimento será exibido em uma janela de diálogo.
 
 
-🗂️ Contribuição
-Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
+## 🤝 Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** ou enviar **pull requests**. 💡
 
 1 - Faça um fork do projeto.
 2 - Crie uma branch para sua feature:
@@ -94,13 +94,19 @@ git commit -m "Adiciona minha nova feature"
 git push origin minha-feature
 5 - Abra um Pull Request.
 
-📝 Licença
+## 📝 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
-📧 Contato
+## 📧 Contato
 Autor: Cláudio de Lima Tosta
 Email: eng-soft-claudio@gmail.com
 GitHub: Eng-Soft-Claudio
-🌟 Agradecimentos
+
+## 🌟 Agradecimentos
 PyQt6 Documentation
 Python Official Documentation
+
+
+## ✨ Funcionalidades
+✔️ Adicionar tarefas com a data de criação  
+❌ Remover tarefas  
