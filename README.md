@@ -47,6 +47,8 @@ simulador-de-investimentos/
 ├── run_tests.sh                                 # Script para rodar os testes
 ├── requirements.txt                             # Dependências do projeto
 └── [README.md](http://_vscodecontentref_/1)     # Documentação do projeto
+```
+---
 
 ## 🛠️ Instalação e Execução
 Pré-requisitos
@@ -65,6 +67,7 @@ pip install -r requirements.txt
 3 - Execute o simulador:
 python main.py
 
+---
 
 ## 🧪 Testes
 Para rodar os testes automatizados, utilize o script run_tests.sh:
@@ -74,6 +77,8 @@ Ou execute diretamente com o Python:
 export PYTHONPATH=$(pwd)/simulador-de-investimentos
 python -m unittest discover simulador-de-investimentos/tests
 
+---
+
 ## 📖 Exemplo de Uso
 1 . Insira o valor inicial do investimento (ex.: R$ 1.000,00).
 2 . Insira a taxa de juros anual (ex.: 5%).
@@ -81,32 +86,32 @@ python -m unittest discover simulador-de-investimentos/tests
 4 . Clique no botão Calcular.
 5 . O valor futuro do investimento será exibido em uma janela de diálogo.
 
+---
 
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** ou enviar **pull requests**. 💡
 
-1 - Faça um fork do projeto.
-2 - Crie uma branch para sua feature:
-git checkout -b minha-feature
-3 - Commit suas alterações:
-git commit -m "Adiciona minha nova feature"
-4  - Envie para o repositório remoto:
-git push origin minha-feature
-5 - Abra um Pull Request.
+---
 
 ## 📝 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
+---
+
 ## 📧 Contato
 Autor: Cláudio de Lima Tosta
+
 Email: eng-soft-claudio@gmail.com
+
 GitHub: Eng-Soft-Claudio
 
+LinkedIn: claudiodelimatosta
+
+---
+
 ## 🌟 Agradecimentos
-PyQt6 Documentation
 Python Official Documentation
 
+PyQt6 Documentation
 
-## ✨ Funcionalidades
-✔️ Adicionar tarefas com a data de criação  
-❌ Remover tarefas  
+---
