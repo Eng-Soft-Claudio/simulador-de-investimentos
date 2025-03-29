@@ -29,24 +29,24 @@ Um simulador de investimentos simples com interface gráfica desenvolvida em **P
 
 ```plaintext
 simulador-de-investimentos/
-├── main.py                # Arquivo principal para executar o programa
-├── simulador/             # Pacote principal do simulador
-│   ├── __init__.py        # Torna a pasta um pacote Python
-│   ├── models/            # Contém as classes e lógica de negócios
+├── main.py                                      # Arquivo principal para executar o programa
+├── simulador/                                   # Pacote principal do simulador
+│   ├── __init__.py                              # Torna a pasta um pacote Python
+│   ├── models/                                  # Contém as classes e lógica de negócios
 │   │   ├── __init__.py
 │   │   ├── investimento.py
-│   ├── views/             # Contém a interface gráfica (GUI)
+    │   ├── views/                               # Contém a interface gráfica (GUI)
 │   │   ├── __init__.py
 │   │   ├── simulador_gui.py
-│   ├── controllers/       # Contém a lógica de controle entre a GUI e os modelos
+│   ├── controllers/                             # Contém a lógica de controle entre a GUI e os modelos
 │       ├── __init__.py
 │       ├── simulador_controller.py
-├── tests/                 # Contém os testes unitários
+├── tests/                                       # Contém os testes unitários
 │   ├── __init__.py
 │   ├── test_investimento.py
-├── run_tests.sh           # Script para rodar os testes
-├── requirements.txt       # Dependências do projeto
-└── [README.md](http://_vscodecontentref_/1) # Documentação do projeto
+├── run_tests.sh                                 # Script para rodar os testes
+├── requirements.txt                             # Dependências do projeto
+└── [README.md](http://_vscodecontentref_/1)     # Documentação do projeto
 
 🛠️ Instalação e Execução
 Pré-requisitos
