@@ -101,7 +101,7 @@ O Software é fornecido "no estado em que se encontra", sem garantia de qualquer
 
 Email: eng-soft-claudio@gmail.com
 
-LinkedIn: claudiodelimatosta
+LinkedIn: [claudiodelimatosta](https://www.linkedin.com/in/claudiodelimatosta/)
 
 ---
 
