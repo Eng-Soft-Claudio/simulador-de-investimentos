@@ -98,11 +98,8 @@ O Software é fornecido "no estado em que se encontra", sem garantia de qualquer
 ---
 
 ## 📧 Contato
-Autor: Cláudio de Lima Tosta
 
 Email: eng-soft-claudio@gmail.com
-
-GitHub: Eng-Soft-Claudio
 
 LinkedIn: claudiodelimatosta
 
